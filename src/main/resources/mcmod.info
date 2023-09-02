@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autorespawn",
+  "name": "AutoRespawn",
+  "description": "This mod allows you to automatically respawn",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
